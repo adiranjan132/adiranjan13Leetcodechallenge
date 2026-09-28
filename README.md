@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0560-subarray-sum-equals-k](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |

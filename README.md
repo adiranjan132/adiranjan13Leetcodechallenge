@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0560-subarray-sum-equals-k](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

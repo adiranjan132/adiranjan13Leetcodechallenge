@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0119-pascals-triangle-ii) |
@@ -47,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/adiranjan132/adiranjan13Leetcodechallenge/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
